@@ -1,0 +1,9 @@
+= 窗体描述 =
+
+ * 主窗体 frmSukima
+ * 群组管理器 frmGroupManager
+ * sukima配置 frmSukimaConfig
+ * sukima收藏夹管理器 frmFavorite
+ * 扩展工具栏管理器 frmExtensionConfig
+ * 代理服务器管理器 frmProxyManager
+ * 页面管理器 frmPageManager
